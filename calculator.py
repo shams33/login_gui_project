@@ -14,3 +14,5 @@ class calculator:
         self.result=Label(self.root,text='',bg='white',width=6,height=4)
         self.result.grid(row=0,coloumn=0)
         self.root.mainloop()
+        
+ # Happy Coding
